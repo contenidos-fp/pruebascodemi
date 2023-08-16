@@ -15,7 +15,7 @@
   text-decoration: none;
   color: #fff;
   font-family: 'Nunito', sans-serif;;
-  font-size: 4pt;
+  font-size: 10pt;
   font-weight: 700;
   width: 100%;
   text-align: left;
@@ -61,7 +61,7 @@
  letter-spacing: 0px;
  word-spacing: normal; 
  line-height: 1.2; 
- font-size: 4pt;
+ font-size: 10pt;
  color:#010101;
  text-align: justify;
  
@@ -86,7 +86,7 @@
   content: "";
   padding-right: 5px;
   font-family: "'Nunito', sans-serif;";
-  font-size: 4pt;
+  font-size: 10pt;
   font-style: normal;
   color: #213744;
 }
@@ -214,18 +214,18 @@ img:hover{filter: opacity(.8);cursor: pointer;
 
 
 
-@media screen and (max-width:564px){#accordion .accordion-title  {font-size:4pt;} }
+@media screen and (max-width:564px){#accordion .accordion-title  {font-size:10pt;} }
 
-@media screen and (max-width:418px){#accordion .accordion-title {font-size:4pt;text-align: left;} }
+@media screen and (max-width:418px){#accordion .accordion-title {font-size:10pt;text-align: left;} }
 
-@media screen and (max-width:330px){#accordion .accordion-title {font-size:4pt;text-align: left;} }
+@media screen and (max-width:330px){#accordion .accordion-title {font-size:10pt;text-align: left;} }
 
 
-@media screen and (max-width:564px){#accordion .accordion-body {font-size:4pt;} }
+@media screen and (max-width:564px){#accordion .accordion-body {font-size:10pt;} }
 
-@media screen and (max-width:418px){#accordion .accordion-body{font-size:4pt;text-align: left;} }
+@media screen and (max-width:418px){#accordion .accordion-body{font-size:10pt;text-align: left;} }
 
-@media screen and (max-width:330px){#accordion .accordion-body {font-size:14pt;text-align: left;} }
+@media screen and (max-width:330px){#accordion .accordion-body {font-size:110pt;text-align: left;} }
 
 
 
